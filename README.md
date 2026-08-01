@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/archit261220/LeetCode/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/archit261220/LeetCode/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/archit261220/LeetCode/tree/master/0486-predict-the-winner) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/archit261220/LeetCode/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/archit261220/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
