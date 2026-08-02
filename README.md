@@ -49,14 +49,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/archit261220/LeetCode/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/archit261220/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/archit261220/LeetCode/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/archit261220/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/archit261220/LeetCode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/archit261220/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/archit261220/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/archit261220/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/archit261220/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
