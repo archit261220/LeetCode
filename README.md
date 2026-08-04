@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/archit261220/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/archit261220/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/archit261220/LeetCode/tree/master/0036-valid-sudoku) |
 | [0486-predict-the-winner](https://github.com/archit261220/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/archit261220/LeetCode/tree/master/0877-stone-game) |
+| [3731-find-missing-elements](https://github.com/archit261220/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/archit261220/LeetCode/tree/master/0036-valid-sudoku) |
+| [3731-find-missing-elements](https://github.com/archit261220/LeetCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
